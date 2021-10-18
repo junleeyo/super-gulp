@@ -1,0 +1,8 @@
+{
+  "name": "supergulp",
+  "version": "1.0.0",
+  "description": "Learn Gulp building an awesome development environment",
+  "author": "junleeyo <lcj715@korea.com>",
+  "license": "MIT",
+  "main": "index.js"
+}
